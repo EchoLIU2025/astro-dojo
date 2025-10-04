@@ -7,10 +7,12 @@
 **中文**  
 Astro-Dojo 是一个面向占星、玄学与象征学的 **直觉训练与 gamification 平台**。  
 它不是自动解盘工具，而是帮助用户自己 **训练直觉、图像联想和原型思维** 的“占星 Duolingo”。  
+同时，它提供 **每日一点占星知识**，以 **小游戏 / 练习** 的方式学习宫位、相位、行星等内容，让学习者在轻松中逐步积累。  
 
 **English**  
 Astro-Dojo is an educational and gamified platform for **astrology, mysticism, and symbolic systems**.  
-It is not an auto-reading tool, but a way to **train intuition, image association, and archetypal thinking** — a "Duolingo for Astrology".
+It is not an auto-reading tool, but a way to **train intuition, image association, and archetypal thinking** — a "Duolingo for Astrology".  
+It also delivers **daily bite-sized astrology knowledge** combined with **interactive exercises and games** for learning houses, aspects, and planets in a fun, incremental way.  
 
 ---
 
@@ -37,12 +39,14 @@ This repository serves as the **original public claim (Prior Art)** of this idea
 
 ## 🔑 核心功能（MVP） | Core Features (MVP)
 - 每日“符号拼图”：神话、塔罗、占星片段的直觉练习  
+- **每日一点占星知识** + 互动小游戏（宫位 / 行星 / 相位基础）  
 - AI 生成互动题库，把原型与宫位/相位匹配  
 - 用户进度、勋章、等级  
 - 社区积分与讨论区  
 
 **English**  
 - Daily “symbol puzzles”: myths, Tarot, and astrological fragments as intuition drills  
+- **Daily astrology knowledge** + interactive games (houses / planets / aspects basics)  
 - AI-generated interactive exercises mapping archetypes to houses/aspects  
 - User progress tracking, badges, and levels  
 - Community leaderboard and discussion  
@@ -55,15 +59,15 @@ This repository serves as the **original public claim (Prior Art)** of this idea
 - 自动看盘、预测  
 - 碎片化答疑  
 
-Astro-Dojo **不做预测**，只做 **技能训练**：  
-让每个人都能成为自己的“象征翻译者”。  
+Astro-Dojo **不做预测**，只做 **技能训练 + 知识累积**：  
+让每个人都能成为自己的“象征翻译者”和“占星学习者”。  
 
 **English**  
 Most “AI + Astrology” products focus on:  
 - Automated chart readings or predictions  
 - Fragmented Q&A  
 
-Astro-Dojo is **not a prediction tool**. It’s a **skill-builder** — empowering everyone to become their own "symbol translator".  
+Astro-Dojo is **not a prediction tool**. It’s a **skill-builder & knowledge trainer** — empowering everyone to become their own "symbol translator" and structured astrology learner.  
 
 ---
 
